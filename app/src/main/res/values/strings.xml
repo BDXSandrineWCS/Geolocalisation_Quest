@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Geolocalisation</string>
+    <string name="noGpsAutorisation">Can\'t do anything without GPS autorisation</string>
+    <string name="noGpsActivated">GPS is disabled</string>
+    <string name="yesGpsActivated">GPS is abled</string>
+    <string name="badGpsSignal">GPS is tempory unavailable</string>
+    <string name="getLocation">You are at:\nLatitude: %s \nLongitude: %s</string>
+    <string name="unknowError">Unknow error</string>
+    <string name="inPreparation">In preparation....</string>
+    <string name="acceptAutorisation">Add autorisation</string>
+</resources>
